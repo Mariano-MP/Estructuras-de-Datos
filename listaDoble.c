@@ -53,8 +53,4 @@ int main() {
 
     return 0;
 }
-lista_doble.c
-Mostrando lista.c
-Estructuras de Datos y Algoritmos I
-Próximas
-¡Excelente! No tienes ninguna tarea para entregar pronto.
+
