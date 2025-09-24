@@ -53,5 +53,4 @@ int main(void) {
     printf("Elemento extraído: %d\n", pop(&p));
     return 0;
 
-    //pila
 }
